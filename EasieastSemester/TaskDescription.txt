@@ -1,0 +1,12 @@
+Database of a university is stored in a text file. One line of code consists of the semester, the neptun code of the professor, and how many class hours 
+the professor has spent with teaching in that semester. The file is ordered by semester, and you can suppose that it is not empty. 
+One sample file:
+19/20/2 gfhdjs 10
+20/21/1 fghdjs 16
+20/21/1 jhsdjd 18
+20/21/1 hflsjh 12
+20/21/1 gfhdjs 10
+20/21/1 jkdled 12
+21/22/1 ghdsnk 12
+Which was the easiest semester (with the least teaching hours in total)? You have to create a class with method first(), current(), next(), and end() for 
+enumerating the semesters with their teaching hours in total. Other public classes can not be created
