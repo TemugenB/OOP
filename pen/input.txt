@@ -1,0 +1,6 @@
+﻿Parker red 40
+Parker blue 70
+Ghibli pink 13
+Ghibli red 11
+Ghibli green 20
+Ninjin purple 200
