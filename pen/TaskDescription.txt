@@ -1,0 +1,24 @@
+Database of a pen store is stored in a text file. One database element consists of the
+brand of the pen, the color of the pen and the number of pieces the store has of this
+pen.
+The file is ordered by brand and you can suppose that it is not empty. One color of
+one brand cannot be found in multiple lines.
+One sample file:
+
+Parker red 40
+
+Parker blue 70
+
+Stabilo green 20
+
+Stabilo blue 5
+
+Stabilo orange 20
+Task:
+
+Which brands have more than 70 pens in the database? You have to create a
+class with methods first(), next(), current(), and end() for enumerating the total number
+of pens for each brand. Other public methods cannot be created for this class.
+In the sample file the output is Parker.
+Requirements: You cannot store multiple lines of the file and you can
+open the file only once.
