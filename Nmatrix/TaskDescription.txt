@@ -1,0 +1,17 @@
+Implement the types using classes. Represent the types using sequences of same-type
+elements (List<> in C#).
+Create a main program with a menu to demonstrate the services (all the methods) a class
+provides in arbitrary order (based on the selections of the user). Make the main program
+instantiate an object of the class. The methods of the class can be called through the menu
+items. Print the state of the object either after the completion of each menu item or through
+another menu item for printing. If there are methods or friend functions that need multiple
+objects (like adding two matrices, for example), the main program should make it possible to
+create and print these objects through the menu.
+Implement unit tests which should be run automatically.
+Implement the N matrix type which contains integers. These are
+square matrices that can contain nonzero entries only in their first
+and last column, and in their main diagonal. Don't store the zero
+entries. Store only the entries that can be nonzero in a sequence.
+Implement as methods: getting the entry located at index (i, j),
+adding and multiplying two matrices, and printing the matrix (in a
+square shape).
