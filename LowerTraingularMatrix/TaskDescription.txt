@@ -1,1 +1,2 @@
-
+#Lower Triangular Matrix
+Implement the type of the lower triangular matrix. Elements above the main diagonal are zero. It is enough to store the main diagonal and the lower items in a sequence. Implement the following operations: getting an item in the ith row and jth column, adding and multiplying two matrices.
